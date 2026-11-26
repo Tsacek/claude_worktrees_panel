@@ -124,3 +124,7 @@ steps as `@progress <done> <total> <what>` lines on stderr, which the panel show
 - `claude plugin validate <folder>` and `claude plugin test <folder>` check the pane (`tests/panel.test.tsx`).
 - `powershell -File tests/config.check.ps1` checks the remote URL parsing and the folder patterns.
 - To work on the mod, clone this repository and start Claude Code with `--plugin-dir <clone>`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
