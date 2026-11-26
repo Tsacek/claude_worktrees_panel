@@ -1,0 +1,6 @@
+{
+  "name": "claude-worktrees-panel",
+  "description": "A Claude Code pane for git worktrees: status, PRs, sessions, disk use and safe cleanup",
+  "owner": { "name": "Tsacek" },
+  "plugins": [{ "name": "worktrees-panel", "source": "./" }]
+}

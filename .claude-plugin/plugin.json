@@ -1,0 +1,7 @@
+{
+  "name": "worktrees-panel",
+  "version": "0.1.0",
+  "description": "Pane listing the repository's git worktrees by what needs doing, with PR status (Azure DevOps or GitHub), Claude sessions, disk use and safe cleanup",
+  "author": { "name": "Tsacek" },
+  "types": "./types/index.d.ts"
+}
